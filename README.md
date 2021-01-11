@@ -1,5 +1,7 @@
 # React-Redux-Ecommerce--ygtalp
 
+![alt text](https://raw.githubusercontent.com/ygtalp/React-Redux-Ecommerce--ygtalp/main/rr.png)
+
 
 1. Sepete eklenen ürünler **Redux** üzerinde tutuldu. Header üzerinde sepet özeti gösterildi.
 2. Filtrelemede hata ile karşılaşıldı. Sorun çözülemedi. (_data.products.filter_ undefined olarak dönmekte.)
