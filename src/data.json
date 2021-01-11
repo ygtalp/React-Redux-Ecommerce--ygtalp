@@ -1,0 +1,292 @@
+{
+  "products": [
+    {
+      "_id": "Product100",
+      "title": "R50S-Product 100",
+      "description": "About Product 1 Description",
+      "price": 50,
+      "color": "Red",
+      "availableSizes": ["S"]
+    },
+    {
+      "_id": "Product125",
+      "title": "R50M-Product 125",
+      "description": "About Product 1 Description",
+      "price": 50,
+      "color": "Red",
+      "availableSizes": ["M"]
+    },
+    {
+      "_id": "Product150",
+      "title": "R50L-Product 150",
+      "description": "About Product 1 Description",
+      "price": 50,
+      "color": ["Red"],
+      "availableSizes": ["L"]
+    },
+    {
+      "_id": "Product175",
+      "title": "R50XL-Product 175",
+      "description": "About Product 1 Description",
+      "price": 50,
+      "color": "Red",
+      "availableSizes": ["XL"]
+    },
+    {
+      "_id": "Product200",
+      "title": "R150S-Product 200",
+      "description": "About Product 2 Description",
+      "price": 150,
+      "color": "Red",
+      "availableSizes": ["S"]
+    },
+    {
+      "_id": "Product225",
+      "title": "R150M-Product 225",
+      "description": "About Product 2 Description",
+      "price": 150,
+      "color": "Red",
+      "availableSizes": ["M"]
+    },
+    {
+      "_id": "Product250",
+      "title": "R150L-Product 250",
+      "description": "About Product 2 Description",
+      "price": 150,
+      "color": "Red",
+      "availableSizes": ["L"]
+    },
+    {
+      "_id": "Product275",
+      "title": "R150XL-Product 275",
+      "description": "About Product 2 Description",
+      "price": 150,
+      "color": "Red",
+      "availableSizes": ["XL"]
+    },
+    {
+      "_id": "Product300",
+      "title": "R350S-Product 300",
+      "description": "About Product 3 Description",
+      "price": 350,
+      "color": "Red",
+      "availableSizes": ["S"]
+    },
+    {
+      "_id": "Product325",
+      "title": "R350M-Product 325",
+      "description": "About Product 3 Description",
+      "price": 350,
+      "color": "Red",
+      "availableSizes": ["M"]
+    },
+    {
+      "_id": "Product350",
+      "title": "R350L-Product 350",
+      "description": "About Product 3 Description",
+      "price": 350,
+      "color": "Red",
+      "availableSizes": ["L"]
+    },
+    {
+      "_id": "Product375",
+      "title": "R350XL-Product 375",
+      "description": "About Product 3 Description",
+      "price": 350,
+      "color": "Red",
+      "availableSizes": ["XL"]
+    },
+    {
+      "_id": "Product400",
+      "title": "B50S-Product 400",
+      "description": "About Product 4 Description",
+      "price": 50,
+      "color": "Blue",
+      "availableSizes": ["S"]
+    },
+    {
+      "_id": "Product425",
+      "title": "B50M-Product 425",
+      "description": "About Product 4 Description",
+      "price": 50,
+      "color": "Blue",
+      "availableSizes": ["M"]
+    },
+    {
+      "_id": "Product450",
+      "title": "B50L-Product 450",
+      "description": "About Product 4 Description",
+      "price": 50,
+      "color": "Blue",
+      "availableSizes": ["L"]
+    },
+    {
+      "_id": "Product475",
+      "title": "B50XL-Product 475",
+      "description": "About Product 4 Description",
+      "price": 50,
+      "color": "Blue",
+      "availableSizes": ["XL"]
+    },
+    {
+      "_id": "Product500",
+      "title": "B150S-Product 500",
+      "description": "About Product 5 Description",
+      "price": 150,
+      "color": "Blue",
+      "availableSizes": ["S"]
+    },
+    {
+      "_id": "Product525",
+      "title": "B150M-Product 525",
+      "description": "About Product 5 Description",
+      "price": 150,
+      "color": "Blue",
+      "availableSizes": ["M"]
+    },
+    {
+      "_id": "Product550",
+      "title": "B150L-Product 550",
+      "description": "About Product 5 Description",
+      "price": 150,
+      "color": "Blue",
+      "availableSizes": ["L"]
+    },
+    {
+      "_id": "Product575",
+      "title": "B150XL-Product 575",
+      "description": "About Product 5 Description",
+      "price": 150,
+      "color": "Blue",
+      "availableSizes": ["XL"]
+    },
+    {
+      "_id": "Product600",
+      "title": "B350S-Product 600",
+      "description": "About Product 6 Description",
+      "price": 350,
+      "color": "Blue",
+      "availableSizes": ["S"]
+    },
+    {
+      "_id": "Product625",
+      "title": "B350M-Product 625",
+      "description": "About Product 6 Description",
+      "price": 350,
+      "color": "Blue",
+      "availableSizes": ["M"]
+    },
+    {
+      "_id": "Product650",
+      "title": "B350L-Product 650",
+      "description": "About Product 6 Description",
+      "price": 350,
+      "color": "Blue",
+      "availableSizes": ["L"]
+    },
+    {
+      "_id": "Product675",
+      "title": "B350XL-Product 675",
+      "description": "About Product 6 Description",
+      "price": 350,
+      "color": "Blue",
+      "availableSizes": ["XL"]
+    },
+    {
+      "_id": "Product700",
+      "title": "G50S-Product 700",
+      "description": "About Product 7 Description",
+      "price": 50,
+      "color": "Green",
+      "availableSizes": ["S"]
+    },
+    {
+      "_id": "Product725",
+      "title": "G50M-Product 725",
+      "description": "About Product 7 Description",
+      "price": 50,
+      "color": "Green",
+      "availableSizes": ["M"]
+    },
+    {
+      "_id": "Product750",
+      "title": "G50L-Product 750",
+      "description": "About Product 7 Description",
+      "price": 50,
+      "color": "Green",
+      "availableSizes": ["L"]
+    },
+    {
+      "_id": "Product775",
+      "title": "G50XL-Product 775",
+      "description": "About Product 7 Description",
+      "price": 50,
+      "color": "Green",
+      "availableSizes": ["XL"]
+    },
+    {
+      "_id": "Product800",
+      "title": "G150S-Product 800",
+      "description": "About Product 8 Description",
+      "price": 150,
+      "color": "Green",
+      "availableSizes": ["S"]
+    },
+    {
+      "_id": "Product825",
+      "title": "G150M-Product 825",
+      "description": "About Product 8 Description",
+      "price": 150,
+      "color": "Green",
+      "availableSizes": ["M"]
+    },
+    {
+      "_id": "Product850",
+      "title": "G150L-Product 850",
+      "description": "About Product 8 Description",
+      "price": 150,
+      "color": "Green",
+      "availableSizes": ["L"]
+    },
+    {
+      "_id": "Product875",
+      "title": "G150XL-Product 875",
+      "description": "About Product 8 Description",
+      "price": 150,
+      "color": "Green",
+      "availableSizes": ["XL"]
+    },
+    {
+      "_id": "Product900",
+      "title": "G350S-Product 900",
+      "description": "About Product 9 Description",
+      "price": 350,
+      "color": "Green",
+      "availableSizes": ["S"]
+    },
+    {
+      "_id": "Product925",
+      "title": "G350M-Product 925",
+      "description": "About Product 9 Description",
+      "price": 350,
+      "color": "Green",
+      "availableSizes": ["M"]
+    },
+    {
+      "_id": "Product950",
+      "title": "G350L-Product 950",
+      "description": "About Product 9 Description",
+      "price": 350,
+      "color": "Green",
+      "availableSizes": ["L"]
+    },
+    {
+      "_id": "Product975",
+      "title": "G350XL-Product 975",
+      "description": "About Product 9 Description",
+      "price": 350,
+      "color": "Green",
+      "availableSizes": ["XL"]
+    }
+  ]
+}

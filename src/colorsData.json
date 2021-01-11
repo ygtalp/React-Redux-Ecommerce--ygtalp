@@ -1,0 +1,19 @@
+{
+  "colorsData": [
+    {
+      "_id": 1,
+      "name": "Red",
+      "value":"red"
+    },
+    {
+      "_id": 2,
+      "name": "Blue",
+      "value":"blue"
+    },
+    {
+      "_id": 3,
+      "name": "Green",
+      "value":"green"
+    }
+  ]
+}
