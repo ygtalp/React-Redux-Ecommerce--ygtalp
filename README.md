@@ -8,6 +8,6 @@
 
 
 
-###Extras
+### Extras
 1. Sepet üzerinden ürün **silme işlevi** eklendi.
 2. Ürünlerin **"Yeniler", "Önce En Düşük Fiyat", "Önce En Yüksek Fiyat"** olacak şekilde sıralanması eklendi.
